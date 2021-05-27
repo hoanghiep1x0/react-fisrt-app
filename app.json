@@ -1,0 +1,12 @@
+{
+  "name": "fisrt-app",
+  "displayName": "fisrt-app",
+  "expo": {
+    "name": "fisrt-app",
+    "slug": "fisrt-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
